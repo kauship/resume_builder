@@ -1,0 +1,56 @@
+personal_info = {
+    "name": "Your Name",
+    "address": "Your Address, City, State, ZIP",
+    "phone": "Your Phone",
+    "email": "Your Email",
+    "linkedin": "Your LinkedIn Profile"
+}
+
+summary = "Highly organized and proactive Meeting and Session Manager with extensive experience in orchestrating meetings, workshops, and live sessions for clients. Skilled in using modern online meeting tools such as Zoom, Microsoft Teams, and Webex, ensuring seamless virtual experiences."
+
+skills = [
+    "Meeting Coordination & Logistics",
+    "Technical Support",
+    "Client Interaction & Needs Assessment",
+    "Virtual Meeting Tools",
+    "Requirement Gathering & Execution"
+]
+
+experience = [
+    {
+        "title": "Meeting and Session Coordinator",
+        "company": "Company Name",
+        "location": "Location",
+        "dates": "Month, Year – Present",
+        "description": "Organized and facilitated high-stakes meetings and live sessions for clients, ensuring each session met unique requirements and ran smoothly."
+    },
+    {
+        "title": "Client Services Specialist",
+        "company": "Company Name",
+        "location": "Location",
+        "dates": "Month, Year – Month, Year",
+        "description": "Assisted in managing client relationships, focusing on understanding and addressing individual needs during client-facing sessions."
+    }
+]
+
+education = {
+    "degree": "Bachelor of Arts in Communication",
+    "institution": "University Name",
+    "dates": "Month, Year"
+}
+
+certifications = [
+    "Certified Meeting Professional (CMP)",
+    "Technical Support Fundamentals"
+]
+
+technical_skills = [
+    "Online Meeting Tools: Zoom, Microsoft Teams, Webex, Google Meet",
+    "Scheduling & Project Management: Microsoft Outlook, Google Calendar, Trello, Asana",
+    "Technical Troubleshooting: Hardware setup, connectivity solutions, basic audio/visual troubleshooting"
+]
+
+affiliations = [
+    "Member, Meeting Professionals International (MPI)",
+    "Member, Association of Meeting Professionals (AMP)"
+]
