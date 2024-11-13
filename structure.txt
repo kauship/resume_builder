@@ -1,0 +1,6 @@
+resume_builder/
+├── app.py               # Flask backend
+├── templates/
+│   └── index.html       # HTML form for resume input
+└── static/
+    └── resume_preview.pdf # PDF resume preview (generated)
